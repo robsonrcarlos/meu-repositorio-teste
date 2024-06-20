@@ -10,3 +10,5 @@
 4. Criar uma nova Branch; [ ] 
 5. Realizar um Pull Request e Merge; [ ] 
 6. Criar o nosso primeiro Fork; [ ]
+
+Realizando Alterações de teste para o nosso reositório.
